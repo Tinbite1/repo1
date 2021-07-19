@@ -3,3 +3,5 @@ sambusa  100
 
 tej 10
 buna 11
+
+ice buna
